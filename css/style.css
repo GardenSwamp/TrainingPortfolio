@@ -1,0 +1,39 @@
+.navbar{
+    background-color:rgba(255,255,255,.9); /*makes navbar transparant (the .9 show the degree of transparancy)*/
+    border-color:rgba(255,255,255,.9); /*makes navbar transparant (the .9 show the degree of transparancy)*/
+}
+body{
+    padding-top: 60px; /*Makes content start underneath nav-bar*/
+    height: 2000px; /*remember to delete this*/
+}
+.my-btn{
+    background-color: transparent;
+}
+
+#menu-icon{
+    height: 30px;
+    margin-top: 10px;
+    float: right;
+    width: auto;
+}
+#logo-img{
+    max-height: 60px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+ul{
+    list-style-type: none;
+}
+#github-logo{
+    height: 40px;
+}
+#linkedin-logo{
+    height: 40px;
+ }
+ .social-logo{
+    margin-top: 10px;
+    float: right;
+    width: auto;
+   
+ }
